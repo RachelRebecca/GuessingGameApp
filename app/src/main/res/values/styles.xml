@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialCardWithBorder" parent="Widget.MaterialComponents.CardView">
+        <item name="strokeWidth">@dimen/slim_margin</item>
+        <item name="strokeColor">@color/backgroundBorderColor</item>
+        <item name="cardBackgroundColor">@color/design_default_color_background</item>
+    </style>
+
+</resources>

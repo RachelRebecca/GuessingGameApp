@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guessing Game App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="top_bar_string">Please tap on one of the buttons to guess a number \n(one, two, or three)</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="new_game">Play New Game</string>
+    <string name="get_stats">Get Statistics</string>
+
+</resources>
