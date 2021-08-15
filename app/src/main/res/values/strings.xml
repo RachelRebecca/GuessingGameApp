@@ -7,6 +7,6 @@
     <string name="button_two">2</string>
     <string name="button_three">3</string>
     <string name="new_game">Play New Game</string>
-    <string name="get_stats">Get Statistics</string>
+    <string name="get_stats">Statistics</string>
 
 </resources>
